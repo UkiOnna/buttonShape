@@ -1,0 +1,15 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\bin\Debug\DifferentButtons.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\bin\Debug\DifferentButtons.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\bin\Debug\DifferentButtons.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\DifferentButtons.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\MainWindow.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\App.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\DifferentButtons_MarkupCompile.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\DifferentButtons_MarkupCompile.lref
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\App.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\MainWindow.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\DifferentButtons.g.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\DifferentButtons.Properties.Resources.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\DifferentButtons.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\DifferentButtons.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\DifferentButtons\DifferentButtons\obj\Debug\DifferentButtons.pdb

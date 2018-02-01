@@ -1,0 +1,14 @@
+﻿<Window x:Class="DifferentButtons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DifferentButtons"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="48,155,0,0" VerticalAlignment="Top" Width="75" Style="{DynamicResource first}"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="394,155,0,0" VerticalAlignment="Top" Width="75" Style="{DynamicResource second}"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="213,155,0,0" VerticalAlignment="Top" Width="75" Style="{DynamicResource third}"/>
+    </Grid>
+</Window>
